@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description | Link |
 |---|---|---|
@@ -50,7 +50,7 @@ while(!success){
 ```
 ---
 
-### 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://prakashraj-dev.netlify.app/">
