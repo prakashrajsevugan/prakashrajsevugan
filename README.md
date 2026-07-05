@@ -55,7 +55,7 @@
   <a href="https://prakashraj-dev.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/prakashraj">
+  <a href="[https://linkedin.com/in/prakashraj](https://www.linkedin.com/in/prakash-raj-s-134a7a327/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/prakashrajsevugan">
