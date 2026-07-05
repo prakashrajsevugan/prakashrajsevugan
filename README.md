@@ -39,6 +39,17 @@
 
 ---
 
+# ☕ Fun Fact
+
+```java
+while(!success){
+    learn();
+    code();
+    improve();
+}
+```
+---
+
 ### 📫 Connect With Me
 
 <p align="center">
