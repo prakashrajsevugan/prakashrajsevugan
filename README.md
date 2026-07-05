@@ -39,16 +39,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <!-- GitHub Stats & Top Languages Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashrajsevugan&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashrajsevugan&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" height="160" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
