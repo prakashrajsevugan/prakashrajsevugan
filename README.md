@@ -42,7 +42,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/gopiO-O/gopiO-O/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/prakashrajsevugan/prakashrajsevugan/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
