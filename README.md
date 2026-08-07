@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Prakash Raj S 👋</h1>
 
   <!-- Animated Typing SVG -->
-  <a href="https://prakashraj-dev.netlify.app/">
+  <a href="https://prakashraj-dev.me/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Three.js+%26+3D+Web+Experiences;AI+Software+Engineer;Shaping+Code+into+Real+Projects" alt="Typing SVG" />
   </a>
   
@@ -53,7 +53,7 @@ while(!success){
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="https://prakashraj-dev.netlify.app/">
+  <a href="https://prakashraj-dev.me/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/prakash-raj-s-134a7a327/">
