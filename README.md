@@ -1,20 +1,19 @@
-<div
-  style="
-    background-image: url('./assets/header-3d-banner-advanced.svg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 500px;
-    padding: 80px 20px;
-    text-align: center;
-  "
->
-  <h1>Hi there, I'm Prakash Raj S 👋</h1>
+<div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Three.js+%26+3D+Web+Experiences;AI+Software+Engineer"
-    alt="Typing SVG"
+    src="./assets/header-3d-banner-advanced.svg"
+    alt="3D Banner"
+    width="100%"
   />
+
+  <h1>Hi there, I'm Prakash Raj S 👋</h1>
+
+  <a href="https://prakashraj-dev.me/">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Three.js+%26+3D+Web+Experiences;AI+Software+Engineer;Shaping+Code+into+Real+Projects"
+      alt="Typing SVG"
+    />
+  </a>
 
   <br><br>
 
@@ -29,6 +28,7 @@
       integrating AI, and writing clean code.
     </em>
   </p>
+
 </div>
 
 ---
