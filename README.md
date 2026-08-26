@@ -15,8 +15,7 @@
     />
   </a>
 
-  <br><br>
-
+  <br>
   <img
     src="https://komarev.com/ghpvc/?username=prakashrajsevugan&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Profile Views"
@@ -74,3 +73,9 @@ while(!success){
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
+<img
+    src="./assets/header-3d-banner.svg"
+    alt="3D Banner"
+    width="100%"
+  />
