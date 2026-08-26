@@ -1,19 +1,22 @@
-<div align="center">
+<div align="center" style="background-image: url('./assets/header-3d-banner-advanced.svg'); background-size: cover; background-position: center; padding: 60px 20px;">
 
-<!-- 3D animated banner (perspective grid + rotating wireframe cubes) -->
-<img src="./assets/header-3d-banner-advanced.svg" alt="3D Banner" width="100%" />
+  <h1>Hi there, I'm Prakash Raj S 👋</h1>
 
-<h1>Hi there, I'm Prakash Raj S 👋</h1>
-<!-- Animated Typing SVG -->
-<a href="https://prakashraj-dev.me/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Three.js+%26+3D+Web+Experiences;AI+Software+Engineer;Shaping+Code+into+Real+Projects" alt="Typing SVG" />
-</a>
+  <a href="https://prakashraj-dev.me/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Three.js+%26+3D+Web+Experiences;AI+Software+Engineer;Shaping+Code+into+Real+Projects" alt="Typing SVG" />
+  </a>
 
-<br/>
+  <br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=prakashrajsevugan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<p><em>I'm a developer with a passion for building interactive web experiences, integrating AI, and writing clean code.</em></p>
+  <img src="https://komarev.com/ghpvc/?username=prakashrajsevugan&label=Profile%20Views&color=0e75b6&style=flat" />
+
+  <p>
+    <em>
+      I'm a developer with a passion for building interactive web experiences,
+      integrating AI, and writing clean code.
+    </em>
+  </p>
+
 </div>
 
 ---
