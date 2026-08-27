@@ -15,7 +15,7 @@
     />
   </a>
 
-<br><br>
+<br>
 
 <img
  src="https://komarev.com/ghpvc/?username=prakashrajsevugan&label=Profile%20Views&color=0e75b6&style=flat"
@@ -111,26 +111,6 @@ AWS & Serverless
         ↓
 Building Production-Ready Applications
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
- src="https://github-readme-stats.vercel.app/api?username=prakashrajsevugan&show_icons=true&theme=transparent&hide_border=true"
- height="170"
- alt="GitHub Stats"
-/>
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashrajsevugan&layout=compact&theme=transparent&hide_border=true"
- height="170"
- alt="Top Languages"
-/>
-
-</div>
 
 ---
 
