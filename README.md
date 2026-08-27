@@ -10,7 +10,7 @@
 
   <a href="https://prakashraj-dev.me/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Three.js+%26+3D+Web+Experiences;AI+Software+Engineer;Shaping+Code+into+Real+Projects"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer!;Three.js+%26+3D+Web+Experiences!;AI+Software+Engineer!;Shaping+Code+into+Real+Projects!"
       alt="Typing SVG"
     />
   </a>
