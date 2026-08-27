@@ -113,6 +113,13 @@ Building Production-Ready Applications
 ```
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/prakashrajsevugan/prakashrajsevugan/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
 
 ## 💡 Developer Mindset
 

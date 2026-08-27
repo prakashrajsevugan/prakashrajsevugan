@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: prakashrajsevugan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
