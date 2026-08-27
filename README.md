@@ -49,7 +49,7 @@ I'm a **Computer Science and Engineering student** focused on building modern we
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Databases
