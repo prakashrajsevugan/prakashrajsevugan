@@ -1,10 +1,11 @@
 <div align="center">
 
   <img
-    src="./assets/header-3d-banner-advanced.svg"
-    alt="3D Banner"
-    width="100%"
-  />
+  src="./assets/header-3d-banner-advanced.svg"
+  alt="3D Banner"
+  width="100%"
+  style="border-radius: 20px;"
+/>
 
   <h1>Hi there, I'm Prakash Raj S 👋</h1>
 
