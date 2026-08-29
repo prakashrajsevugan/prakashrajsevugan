@@ -155,15 +155,4 @@ while (!success) {
   </a>
 
 </div>
-
 <br>
-
-<div align="center">
-
-<img
- src="./assets/header-3d-banner-advanced.svg"
- alt="Footer Banner"
- width="100%"
-/>
-
-</div>
