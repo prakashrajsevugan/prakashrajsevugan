@@ -32,13 +32,13 @@
 
 I'm a **Computer Science and Engineering student** focused on building modern web applications and exploring cloud technologies.
 
-* 🔭 Building full-stack web applications and interactive 3D experiences
-* 🌐 Working with **React.js, Node.js, Express.js, and PostgreSQL**
-* 🤖 Exploring **AI-powered applications**
-* ☁️ Learning **AWS and serverless architecture**
-* 🎨 Exploring **Three.js and Blender** for 3D web experiences
-* 🐧 Comfortable working with **Linux, Git, and Docker**
-* 📚 Continuously improving my development and problem-solving skills
+* Building full-stack web applications and interactive 3D experiences
+* Working with **React.js, Node.js, Express.js, and PostgreSQL**
+* Exploring **AI-powered applications**
+* Learning **AWS and serverless architecture**
+* Exploring **Three.js and Blender** for 3D web experiences
+* Comfortable working with **Linux, Git, and Docker**
+* Continuously improving my development and problem-solving skills
 
 ---
 
@@ -161,7 +161,7 @@ while (!success) {
 <div align="center">
 
 <img
- src="./assets/header-3d-banner.svg"
+ src="./assets/header-3d-banner-advanced.svg"
  alt="Footer Banner"
  width="100%"
 />
