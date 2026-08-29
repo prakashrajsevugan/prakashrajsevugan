@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
- src="./assets/header-3d-banner-advanced.svg"
+ src="./assets/header-3d-banner.svg"
  alt="3D Developer Banner"
  width="100%"
 />
